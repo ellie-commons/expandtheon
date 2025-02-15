@@ -14,7 +14,9 @@ icon_links = [
 
     ['obsidian', 'md.obsidian.Obsidian'],
 
-    ['zotero', 'org.zotero.Zotero']
+    ['zotero', 'org.zotero.Zotero'],
+
+    ['ghostty', 'com.mitchellh.ghostty']
 ]
 
 foreach link : icon_links
