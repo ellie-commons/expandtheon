@@ -7,6 +7,7 @@
 ![Discord](./apps/64/discord.svg)
 ![Slack](./apps/64/slack.svg)
 ![Zotero](./apps/64/zotero.svg)
+![Ghostty](./apps/64/ghostty.svg)
 
 A vector icon theme that brings third-party support to elementary OS and it's
 desktop environment, Pantheon.
