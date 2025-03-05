@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.185"
-     inkscape:cx="23.798627"
-     inkscape:cy="22.196796"
+     inkscape:zoom="30.643225"
+     inkscape:cx="30.12085"
+     inkscape:cy="28.374951"
      inkscape:current-layer="svg4"><inkscape:grid
        id="grid1"
        units="px"
@@ -266,6 +266,6 @@
        style="opacity:0.25;mix-blend-mode:overlay;fill:#fafafa;fill-opacity:1;stroke:none;stroke-linejoin:round;stroke-opacity:1"
        d="m 8,10 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z m 0,4 v 2 h 32 v -2 z" /></g><path
      id="rect14-4"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.3;vector-effect:none;fill:url(#linearGradient9);stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.5;vector-effect:none;fill:url(#linearGradient9);stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 8.5,9 h 31 C 39.777,9 40,9.223 40,9.5 v 7 c 0,0.277 -0.22653,0.455893 -0.5,0.5 l -31,5 C 8.22653,22.04411 8,21.777 8,21.5 V 9.5 C 8,9.223 8.223,9 8.5,9 Z"
      sodipodi:nodetypes="sssssssss" /></svg>

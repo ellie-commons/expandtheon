@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.185"
-     inkscape:cx="27.459954"
-     inkscape:cy="20.366133"
+     inkscape:cx="51.258581"
+     inkscape:cy="19.908467"
      inkscape:current-layer="svg4"><inkscape:grid
        id="grid1"
        units="px"
@@ -658,6 +658,6 @@
      d="M 8,53 H 56 M 8,49 H 56 M 8,45 H 56 M 8,41 H 56 M 8,37 H 56 M 8,33 H 56 M 8,29 H 56 M 8,25 H 56 M 8,21 H 56 M 8,17 H 56 M 8,13 H 56 M 8,9 h 48"
      sodipodi:nodetypes="cccccccccccccccccccccccc" /><path
      id="rect18"
-     style="opacity:0.3;fill:url(#linearGradient24);stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.5;fill:url(#linearGradient24);stroke-linecap:round;stroke-linejoin:round"
      d="m 10.5,8 h 43 c 1.385,0 2.5,1.115 2.5,2.5 v 10 c 0,1.385 -1.12829,2.308598 -2.5,2.5 l -43,6 C 9.128289,29.191402 8,27.885 8,26.5 v -16 C 8,9.115 9.115,8 10.5,8 Z"
      sodipodi:nodetypes="sssssssss" /></svg>
