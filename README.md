@@ -7,6 +7,7 @@
 ![Zotero](./apps/48/zotero.svg)
 ![Ghostty](./apps/48/ghostty.svg)
 ![WezTerm](./apps/48/wezterm.svg)
+![Zen Browser](./apps/48/zen-browser.svg)
 
 A vector icon theme that brings third-party support to elementary OS and it's
 desktop environment, Pantheon.
