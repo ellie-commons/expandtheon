@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="2.185"
      inkscape:cx="47.597254"
      inkscape:cy="32.036613"
@@ -41,7 +41,7 @@
        opacity="0.078431373"
        empspacing="2"
        enabled="true"
-       visible="false" /><inkscape:page
+       visible="true" /><inkscape:page
        x="0"
        y="0"
        width="48"
@@ -50,6 +50,14 @@
        margin="0"
        bleed="0" /></sodipodi:namedview><defs
      id="defs3491"><linearGradient
+       id="linearGradient1"
+       inkscape:collect="always"><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#d4d4d4;stop-opacity:1;"
+         offset="1"
+         id="stop2" /></linearGradient><linearGradient
        id="linearGradient13"
        inkscape:collect="always"><stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -202,7 +210,15 @@
        x2="98"
        y2="42"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-74)" /></defs><metadata
+       gradientTransform="translate(-74)" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="23.5"
+       y1="7"
+       x2="23.5"
+       y2="40"
+       gradientUnits="userSpaceOnUse" /></defs><metadata
      id="metadata3494"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
@@ -232,5 +248,5 @@
      style="baseline-shift:baseline;display:inline;overflow:visible;opacity:0.15;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
      d="M 23.5,8 C 14.405069,8 7,15.405069 7,24.5 7,33.594931 14.405069,41 23.5,41 32.59493,41 40,33.594931 40,24.5 40,15.405069 32.59493,8 23.5,8 Z m 0,3 C 30.97361,11 37,17.026389 37,24.5 37,31.973611 30.97361,38 23.5,38 16.026389,38 10,31.973611 10,24.5 10,17.026389 16.026389,11 23.5,11 Z m 0,2 C 17.16057,13 12,18.16057 12,24.5 12,30.83943 17.16057,36 23.5,36 29.83943,36 35,30.83943 35,24.5 35,18.16057 29.83943,13 23.5,13 Z m 0,2 C 28.75855,15 33,19.24145 33,24.5 33,29.75855 28.75855,34 23.5,34 18.24145,34 14,29.75855 14,24.5 14,19.24145 18.24145,15 23.5,15 Z m 0,3 C 19.916071,18 17,20.916071 17,24.5 17,28.083929 19.916071,31 23.5,31 27.08393,31 30,28.083929 30,24.5 30,20.916071 27.08393,18 23.5,18 Z m 0,1 C 26.54349,19 29,21.456512 29,24.5 29,27.543488 26.54349,30 23.5,30 20.456512,30 18,27.543488 18,24.5 18,21.456512 20.456512,19 23.5,19 Z" /><path
      id="path13"
-     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
      d="M 23.5,7 C 14.405069,7 7,14.405069 7,23.5 7,32.594931 14.405069,40 23.5,40 32.59493,40 40,32.594931 40,23.5 40,14.405069 32.59493,7 23.5,7 Z m 0,3 C 30.97361,10 37,16.026389 37,23.5 37,30.973611 30.97361,37 23.5,37 16.026389,37 10,30.973611 10,23.5 10,16.026389 16.026389,10 23.5,10 Z m 0,2 C 17.16057,12 12,17.16057 12,23.5 12,29.83943 17.16057,35 23.5,35 29.83943,35 35,29.83943 35,23.5 35,17.16057 29.83943,12 23.5,12 Z m 0,2 C 28.75855,14 33,18.24145 33,23.5 33,28.75855 28.75855,33 23.5,33 18.24145,33 14,28.75855 14,23.5 14,18.24145 18.24145,14 23.5,14 Z m 0,3 C 19.916071,17 17,19.916071 17,23.5 17,27.083929 19.916071,30 23.5,30 27.08393,30 30,27.083929 30,23.5 30,19.916071 27.08393,17 23.5,17 Z m 0,1 C 26.54349,18 29,20.456512 29,23.5 29,26.543488 26.54349,29 23.5,29 20.456512,29 18,26.543488 18,23.5 18,20.456512 20.456512,18 23.5,18 Z" /></svg>
