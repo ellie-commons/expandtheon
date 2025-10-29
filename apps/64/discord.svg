@@ -380,8 +380,9 @@
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient899);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
      d="m 10.5,4.5 c -3.324,0 -6,2.676 -6,6 v 39 c 0,3.324 2.676,6 6,6 h 31 v 8 l 8,-8 h 4 c 3.324,0 6,-2.676 6,-6 v -39 c 0,-3.324 -2.676,-6 -6,-6 z" /><path
      id="rect6741"
-     style="opacity:0.5;fill:none;stroke:url(#linearGradient3904);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 10.5,5.5 c -2.77,0 -5,2.23 -5,5 v 39 c 0,2.77 2.23,5 5,5 h 32 V 61 L 49,54.5 h 4.5 c 2.77,0 5,-2.23 5,-5 v -39 c 0,-2.77 -2.23,-5 -5,-5 z" /><path
+     style="opacity:0.35;fill:none;stroke:url(#linearGradient3904);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 10.5,5.5 c -2.77,0 -5,2.23 -5,5 v 39 c 0,2.77 2.23,5 5,5 h 32 V 61 L 49,54.5 h 4.5 c 2.77,0 5,-2.23 5,-5 v -39 c 0,-2.77 -2.23,-5 -5,-5 z"
+     sodipodi:nodetypes="sssscccsssss" /><path
      id="rect5505-21-9"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;stroke:#0a0f9f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501961;marker:none;enable-background:accumulate"
      d="m 10.5,4.5 c -3.324,0 -6,2.676 -6,6 v 39 c 0,3.324 2.676,6 6,6 h 31 v 8 l 8,-8 h 4 c 3.324,0 6,-2.676 6,-6 v -39 c 0,-3.324 -2.676,-6 -6,-6 z" /><path
