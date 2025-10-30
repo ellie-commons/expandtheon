@@ -1,0 +1,16 @@
+Source: io.github.ellie-commons.expandtheon-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Teamcons <teamcons.carrd.co>
+Build-Depends: debhelper (>= 10.5.1),
+               meson (>= 0.58)
+Standards-Version: 1.0.0
+Homepage: https://github.com/ellie-commons/expandtheon
+
+Package: io.github.ellie-commons.expandtheon-icon-theme
+Architecture: any
+Version: 1.0.0
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Enhances: elementary-icon-theme
+Description: A vector icon theme that brings third-party support to elementary OS.
+ This theme is designed to be installed on top of and extend the regular icons theme.
