@@ -1,4 +1,4 @@
-Source: io.github.ellie-commons.expandtheon-icon-theme
+Source: expandtheon-icon-theme
 Section: x11
 Priority: optional
 Maintainer: Teamcons <teamcons.carrd.co>
@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 10.5.1),
 Standards-Version: 1.0.0
 Homepage: https://github.com/ellie-commons/expandtheon
 
-Package: io.github.ellie-commons.expandtheon-icon-theme
+Package: expandtheon-icon-theme
 Architecture: any
 Version: 1.0.0
 Depends: ${misc:Depends}, ${shlibs:Depends}
