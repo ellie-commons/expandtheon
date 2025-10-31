@@ -18,6 +18,8 @@ icon_links = [
 
     ['zotero', 'org.zotero.Zotero'],
 
+    ['zen-browser', 'app.zen_browser.zen'],
+
     ['ghostty', 'com.mitchellh.ghostty'],
 
     ['wezterm', 'org.wezfurlong.wezterm'],
