@@ -10,6 +10,8 @@ icon_links = [
     ['alacritty', 'com.alacritty.Alacritty'],
     ['alacritty', 'Alacritty'],
 
+    ['bitwarden', 'com.bitwarden.desktop'],
+
     ['discord', 'com.discordapp.Discord'],
 
     ['slack', 'com.slack.Slack'],
