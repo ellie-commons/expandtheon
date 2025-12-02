@@ -31,6 +31,8 @@ icon_links = [
     ['libreoffice-base', 'org.libreoffice.LibreOffice.base'],
     ['libreoffice-calc', 'org.libreoffice.LibreOffice.calc'],
     ['libreoffice-draw', 'org.libreoffice.LibreOffice.draw'],
+    ['libreoffice-math', 'org.libreoffice.LibreOffice.math'],
+    ['libreoffice-impress', 'org.libreoffice.LibreOffice.impress'],
 ]
 
 foreach link : icon_links

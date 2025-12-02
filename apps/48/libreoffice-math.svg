@@ -177,10 +177,10 @@
      style="opacity:1;fill:url(#linearGradient8);stroke-linecap:round;stroke-linejoin:round"
      d="M 8.5 5.5 C 6.284 5.5 4.5 7.284 4.5 9.5 L 4.5 40.5 C 4.5 42.716 6.284 44.5 8.5 44.5 L 39.5 44.5 C 41.716 44.5 43.5 42.716 43.5 40.5 L 43.5 21.5 L 27.5 5.5 L 8.5 5.5 z M 32.5 5.5 L 43.5 16.5 L 43.5 9 A 3.5 3.5 0 0 0 40 5.5 L 32.5 5.5 z " /><path
      id="path18"
-     style="opacity:0.35;fill:none;stroke:url(#linearGradient3058-5);stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:0.5;fill:none;stroke:url(#linearGradient3058-5);stroke-linecap:round;stroke-linejoin:round"
      d="M 8.5 6.5 C 6.838 6.5 5.5 7.838 5.5 9.5 L 5.5 40.5 C 5.5 42.162 6.838 43.5 8.5 43.5 L 39.5 43.5 C 41.162 43.5 42.500001 42.162 42.5 40.5 L 42.5 22 L 27 6.5 L 8.5 6.5 z M 35 6.5 L 42.5 14 L 42.5 9 A 2.5 2.5 0 0 0 40 6.5 L 35 6.5 z " /><path
      id="path8"
-     style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b61b3c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     style="color:#000000;font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#860414;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
      d="m 8.5,5.5 c -2.216,0 -4,1.784 -4,4 v 31 c 0,2.216 1.784,4 4,4 h 31 c 2.216,0 4,-1.784 4,-4 v -19 l -16,-16 z m 24,0 11,11 V 9 C 43.5,7.0670034 41.932997,5.5 40,5.5 Z" /><g
      id="g4"
      transform="translate(1,-1)"><path
