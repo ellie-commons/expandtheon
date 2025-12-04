@@ -1,6 +1,6 @@
 project (
     'com.wpkelso.expandtheon',
-    version: '1.0.0',
+    version: '2.0.0',
     meson_version: '>=0.61',
 )
 
@@ -19,7 +19,7 @@ directories = [
 ]
 
 # Add a size here to the list if needed.
-sizes = ['16', '24', '32', '48', '64', '128', 'symbolic']
+sizes = ['16', '32', '48', '64', '128', 'symbolic']
 
 # Symbolic icons are made to have a maximum size.
 max_size_symbolic = '512'
@@ -31,7 +31,7 @@ min_size_ever = '8'
 msg_warning = false
 msg = '\nPLEASE VERIFY THE CONFIGURATION:'
 
-if (sizes.length() >= 7)
+if (sizes.length() >= 6)
     msg += '\nAvailable sizes:           @0@ ✔'.format (', '.join (sizes))
 else
     msg += '\nAvailable sizes:           @0@ ⛔'.format (', '.join (sizes))

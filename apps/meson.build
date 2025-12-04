@@ -5,7 +5,7 @@ icon_links = [
     # The first argument is the original icon name,
     # the second is the link.
     # `alt` files do not get symlinked,
-    # they should be changed in the relevant `desktop` file
+    # they should be changed in the relevant desktop file
 
     ['alacritty', 'com.alacritty.Alacritty'],
     ['alacritty', 'Alacritty'],
@@ -25,6 +25,14 @@ icon_links = [
     ['ghostty', 'com.mitchellh.ghostty'],
 
     ['wezterm', 'org.wezfurlong.wezterm'],
+
+    ['libreoffice', 'org.libreoffice.LibreOffice.startcenter'],
+    ['libreoffice-writer', 'org.libreoffice.LibreOffice.writer'],
+    ['libreoffice-base', 'org.libreoffice.LibreOffice.base'],
+    ['libreoffice-calc', 'org.libreoffice.LibreOffice.calc'],
+    ['libreoffice-draw', 'org.libreoffice.LibreOffice.draw'],
+    ['libreoffice-math', 'org.libreoffice.LibreOffice.math'],
+    ['libreoffice-impress', 'org.libreoffice.LibreOffice.impress'],
 ]
 
 foreach link : icon_links
