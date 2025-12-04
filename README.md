@@ -15,6 +15,7 @@
 ![LibreOffice Impress](./apps/48/libreoffice-impress.svg)
 ![LibreOffice Math](./apps/48/libreoffice-math.svg)
 ![LibreOffice Writer](./apps/48/libreoffice-writer.svg)
+![Bitwarden](./apps/48/bitwarden.svg)
 
 A vector icon theme that brings third-party support to elementary OS and it's
 desktop environment, Pantheon.
