@@ -25,6 +25,13 @@ icon_links = [
     ['ghostty', 'com.mitchellh.ghostty'],
 
     ['wezterm', 'org.wezfurlong.wezterm'],
+
+    # Papirus symlinks all of these options
+    ['firefox', 'firefox-bin'],
+    ['firefox', 'firefox-esr'],
+    ['firefox', 'firefox-icon'],
+    ['firefox', 'org.mozilla.Firefox'],
+    ['firefox', 'org.mozilla.firefox'],
 ]
 
 foreach link : icon_links
