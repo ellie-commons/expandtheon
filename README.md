@@ -9,6 +9,7 @@
 ![WezTerm](./apps/48/wezterm.svg)
 ![Zen Browser](./apps/48/zen-browser.svg)
 ![Bitwarden](./apps/48/bitwarden.svg)
+![Firefox](./apps/48/firefox.svg)
 
 A vector icon theme that brings third-party support to elementary OS and it's
 desktop environment, Pantheon.
