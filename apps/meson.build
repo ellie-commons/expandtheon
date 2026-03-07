@@ -32,6 +32,8 @@ icon_links = [
     ['firefox', 'firefox-icon'],
     ['firefox', 'org.mozilla.Firefox'],
     ['firefox', 'org.mozilla.firefox'],
+
+    ['spotify', 'com.spotify.Client'],
 ]
 
 foreach link : icon_links
