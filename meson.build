@@ -1,6 +1,6 @@
 project (
     'com.wpkelso.expandtheon',
-    version: '1.0.0',
+    version: '2.0.0',
     meson_version: '>=0.61',
 )
 
